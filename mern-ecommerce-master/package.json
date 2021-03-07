@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohamedsamara/mern-ecommerce.git"
+    "url": "https://github.com/hamzatariq9396/FashionBazaar"
   },
   "keywords": [
     "node",
@@ -28,9 +28,9 @@
   "author": " ",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mohamedsamara/mern-ecommerce/issues"
+    "url": "https://github.com/hamzatariq9396/FashionBazaar"
   },
-  "homepage": "https://github.com/mohamedsamara/mern-ecommerce#readme",
+  "homepage": "https://github.com/hamzatariq9396/FashionBazaar",
   "dependencies": {
     "aws-sdk": "^2.799.0",
     "axios": "^0.21.1",
